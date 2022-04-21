@@ -1,7 +1,7 @@
 {
-  "name": "Ionic Conference",
-  "short_name": "Ionic Conference",
-  "start_url": "index.html",
+  "name": "THANA Business",
+  "short_name": "THANA Business",
+  "start_url": "login.html",
   "display": "standalone",
   "icons": [
     {
