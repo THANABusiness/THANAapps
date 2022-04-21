@@ -13,6 +13,7 @@ const indexMatches = [
   'ngsw-worker.js',
   'favicon',
   'index.html',
+  'login.html',
   'manifest.webmanifest',
   '.svg'
 ];
